@@ -1,0 +1,19 @@
+{
+  "name": "FitText",
+  "version": "1.0.0",
+  "description": "FitText makes font-sizes flexible. Use this plugin on your responsive design for ratio-based resizing of your headlines.",
+  "main": "jquery.fittext.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoomTownROI/FitText.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoomTownROI/FitText.js/issues"
+  },
+  "homepage": "https://github.com/BoomTownROI/FitText.js#readme"
+}
